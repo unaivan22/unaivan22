@@ -1,6 +1,6 @@
 - 👋 Hi, I’m unaivan
 - 👀 I’m interested in UI/UX and frontend development
-- 🌱 I’m currently learning reactjs
+- 🌱 I’m currently learning typecript, nextjs
 - 💞️ I’m looking for Full-time Remote Job
 - 📫 How to reach me https://unaivan.vercel.app
 
