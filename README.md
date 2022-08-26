@@ -2,7 +2,7 @@
 - 👀 I’m interested in UI/UX 
 - 🌱 I’m currently learning nextjs and product designer
 - 💞️ I’m looking for Full-time Remote Job
-- 📫 How to reach me https://unaivan.vercel.app
+- 📫 How to reach me https://dinivannendragunawan.vercel.app/
 
 <!---
 unaivan22/unaivan22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
